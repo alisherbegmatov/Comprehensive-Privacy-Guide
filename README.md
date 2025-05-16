@@ -1174,10 +1174,10 @@ These tools use AI to monitor and report on data exposure, breaches, and digital
 
 Before using these tools, consider the following best practices:
 
-- 🔐 **Only investigate your own data.** Never use these tools to monitor others without consent.
-- 📜 **Follow each platform’s terms of service** and respect applicable privacy laws.
-- 🚫 **Avoid doxing, surveillance, or unauthorized data gathering.**
-- 📁 **Log and document your findings** to ensure accountability and manage follow-ups such as opt-outs or data deletion requests.
+- **Only investigate your own data.** Never use these tools to monitor others without consent.
+- **Follow each platform’s terms of service** and respect applicable privacy laws.
+- **Avoid doxing, surveillance, or unauthorized data gathering.**
+- **Log and document your findings** to ensure accountability and manage follow-ups such as opt-outs or data deletion requests.
 
 ## **Pro Tip**
 
