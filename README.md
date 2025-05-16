@@ -790,6 +790,233 @@ This section provides a comprehensive list of privacy protection resources, orga
 
 These resources provide a broad spectrum of information, tools, and advocacy to help you protect your personal data and exercise your privacy rights effectively. Whether you're seeking to opt-out of marketing databases or better understand global data protection laws, these resources can be instrumental in your data protection journey.
 
+## Data Classification
+
+Understanding the different categories of sensitive data is crucial for ensuring privacy and compliance with various regulations. Below is an overview of key data classifications, their definitions, examples, and associated regulations.
+
+### 1. Personally Identifiable Information (PII)
+
+**Definition**:  
+Information that can be used to identify an individual, either on its own or when combined with other data.
+
+**Examples**:
+
+- Full name
+- Social Security number (SSN)
+- Email address
+- Phone number
+- Home address
+- Date of birth
+- Passport number
+- Driver’s license number
+
+**Regulations**:
+
+- General Data Protection Regulation (GDPR)
+- California Consumer Privacy Act (CCPA)
+- Federal Trade Commission (FTC) regulations
+
+---
+
+### 2. Protected Health Information (PHI)
+
+**Definition**:  
+A subset of PII that includes medical and health-related data created or collected by healthcare providers or health plans, protected under U.S. law.
+
+**Examples**:
+
+- Medical records
+- Test results
+- Health insurance information
+- Billing information
+- Diagnoses and treatment plans
+- Prescriptions
+
+**Regulations**:
+
+- Health Insurance Portability and Accountability Act (HIPAA)
+
+---
+
+### 3. Payment Card Industry (PCI) Data
+
+**Definition**:  
+Information related to payment card transactions and is governed by the Payment Card Industry Data Security Standard (PCI DSS).
+
+**Examples**:
+
+- Credit card numbers
+- Cardholder name
+- Expiration dates
+- Card Verification Value (CVV)
+- PINs and magnetic stripe data
+
+**Regulations**:
+
+- Payment Card Industry Data Security Standard (PCI DSS)
+
+---
+
+### 4. Sensitive Personal Information (SPI)
+
+**Definition**:  
+A subset of PII that requires higher levels of protection due to its potential impact if disclosed.
+
+**Examples**:
+
+- Racial or ethnic origin
+- Political opinions
+- Religious or philosophical beliefs
+- Sexual orientation
+- Genetic and biometric data
+
+**Regulations**:
+
+- GDPR (Article 9 – special category data)
+- CCPA (as "sensitive personal information")
+
+---
+
+### 5. Nonpublic Personal Information (NPI)
+
+**Definition**:  
+Information collected by financial institutions that is not publicly available.
+
+**Examples**:
+
+- Bank account numbers
+- Transaction history
+- Income and credit scores
+
+**Regulations**:
+
+- Gramm-Leach-Bliley Act (GLBA)
+
+---
+
+### 6. Controlled Unclassified Information (CUI)
+
+**Definition**:  
+Information the U.S. government creates or possesses that requires safeguarding or dissemination controls, but is not classified.
+
+**Examples**:
+
+- Export control data
+- Law enforcement sensitive data
+- Critical infrastructure information
+
+**Regulations**:
+
+- NIST SP 800-171
+- CUI Federal Regulation (32 CFR Part 2002)
+
+---
+
+### 7. Federal Contract Information (FCI)
+
+**Definition**:  
+Information provided by or generated for the U.S. government under a contract, not intended for public release.
+
+**Regulations**:
+
+- Federal Acquisition Regulation (FAR) 52.204-21
+
+---
+
+### 8. Electronic Protected Health Information (ePHI)
+
+**Definition**:  
+PHI that is created, stored, transmitted, or received electronically.
+
+**Regulations**:
+
+- HIPAA Security Rule
+
+---
+
+### 9. Cardholder Data (CHD)
+
+**Definition**:  
+A core component of PCI DSS, it includes information such as the primary account number (PAN), cardholder name, and expiration date.
+
+**Part of**:  
+PCI data set
+
+**Regulations**:
+
+- PCI DSS
+
+---
+
+### 10. Export-Controlled Data (ITAR/EAR)
+
+**Definition**:  
+Technical data that falls under U.S. export control laws like ITAR (International Traffic in Arms Regulations) or EAR (Export Administration Regulations).
+
+**Examples**:
+
+- Defense-related technical specifications
+- Dual-use technologies
+
+**Regulations**:
+
+- ITAR, EAR
+
+---
+
+### 11. Defense Information Infrastructure Data (DII)
+
+**Definition**:  
+Includes classified and unclassified sensitive data relevant to national defense systems.
+
+**Regulations**:
+
+- Department of Defense standards
+- NIST SP 800-53
+
+---
+
+### 12. Personally Identifiable Financial Information (PIFI)
+
+**Definition**:  
+Similar to NPI, used mainly in financial sectors to describe personal financial records.
+
+**Regulations**:
+
+- GLBA
+
+---
+
+### 13. Confidential Business Information (CBI)
+
+**Definition**:  
+Non-personal, proprietary business information that must be protected from unauthorized disclosure.
+
+**Examples**:
+
+- Trade secrets
+- Supplier and pricing data
+
+**Regulations**:
+
+- Varies by jurisdiction and contract law
+
+---
+
+## Best Practices for Handling Sensitive Information
+
+1. **Data Minimization** – Only collect the data you need.
+2. **Encryption** – Use encryption for both data at rest and in transit.
+3. **Access Control** – Implement strict access rights and role-based permissions.
+4. **Audit and Logging** – Maintain detailed logs of access and changes to sensitive data.
+5. **Regular Security Assessments** – Conduct regular audits and vulnerability scans.
+6. **Incident Response Plans** – Be prepared with a clear plan in the event of a data breach.
+7. **Training and Awareness** – Educate staff on data privacy and security practices.
+
+---
+
+For more detailed information on each data classification and its associated regulations, please refer to the respective regulatory bodies and standards.
+
 # **For Developers**
 
 Developers play a vital role in protecting user privacy. Whether you're building apps, websites, or platforms, integrating privacy-focused tools and understanding the data flow is essential. Below you'll find SDKs, APIs, and privacy compliance tools, along with guidelines on how to assess their data collection practices.
