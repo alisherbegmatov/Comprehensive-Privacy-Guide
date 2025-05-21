@@ -1163,12 +1163,115 @@ These tools use AI to monitor and report on data exposure, breaches, and digital
 
 ## **AI + OSINT Tools**
 
-**Open Source Intelligence (OSINT)** tools, enhanced with AI integrations, can perform deep scans across public databases and networks to identify your exposed data.
+This section provides a categorized list of OSINT (Open Source Intelligence) tools for various investigative, reconnaissance, and research purposes. These tools can aid in information gathering across multiple platforms including social media, domain info, IP data, geolocation, and more.
 
-- **[Spiderfoot](https://www.spiderfoot.net/)** – Automated reconnaissance and threat intelligence.
-- **[Maltego](https://www.maltego.com/)** – Visual link analysis of individuals, domains, and related entities.
-- **[Recon-ng](https://github.com/lanmaster53/recon-ng)** – Web-based reconnaissance tool for data discovery.
-- **[Google Colab Notebooks](https://colab.research.google.com/)** – Combine Python scripts and AI models to scan for leaked credentials, profile exposures, or network threats.
+### People Search
+
+- [Pipl](https://pipl.com/)
+- [PeekYou](https://www.peekyou.com/)
+- [Spokeo](https://www.spokeo.com/)
+- [BeenVerified](https://www.beenverified.com/)
+- [Whitepages](https://www.whitepages.com/)
+- [TruePeopleSearch](https://www.truepeoplesearch.com/)
+
+### Username and Email Investigation
+
+- [Sherlock](https://github.com/sherlock-project/sherlock)
+- [WhatsMyName](https://github.com/WebBreacher/WhatsMyName)
+- [Holehe](https://github.com/megadose/holehe)
+- [EmailRep](https://emailrep.io/)
+- [Hunter.io](https://hunter.io/)
+- [HaveIBeenPwned](https://haveibeenpwned.com/)
+- [Email-Validator](https://github.com/martenson/disposable-email-domains)
+
+### Social Media OSINT
+
+- [Social-Searcher](https://www.social-searcher.com/)
+- [Twint](https://github.com/twintproject/twint)
+- [Instagram-OSINT](https://github.com/chrisdoman/Instagram-OSINT)
+- [Facebook Graph Search (Legacy)](https://inteltechniques.com/)
+- [LinkedIn Scraper](https://github.com/OrbitalSync/linkedin_scraper)
+- [TikTok OSINT Tool](https://github.com/0xtavian/TikTok-OSINT)
+
+### Geolocation and Maps
+
+- [Google Earth](https://earth.google.com/)
+- [SunCalc](https://suncalc.net/)
+- [EXIF.tools](https://exif.tools/)
+- [GeoGuessr](https://www.geoguessr.com/)
+- [Mapillary](https://www.mapillary.com/)
+- [OpenStreetMap](https://www.openstreetmap.org/)
+
+### Domain and IP Intelligence
+
+- [WhoisXML API](https://www.whoisxmlapi.com/)
+- [ViewDNS](https://viewdns.info/)
+- [DomainTools](https://www.domaintools.com/)
+- [Censys](https://censys.io/)
+- [Shodan](https://www.shodan.io/)
+- [SecurityTrails](https://securitytrails.com/)
+- [IPinfo](https://ipinfo.io/)
+- [Robtex](https://www.robtex.com/)
+- [ThreatCrowd](https://www.threatcrowd.org/)
+
+### Dark Web OSINT
+
+- [DarkSearch.io (Archived)](https://darksearch.io/)
+- [OnionSearch](https://github.com/megadose/OnionSearch)
+- [Ahmia](https://ahmia.fi/)
+- [Dark.fail](https://dark.fail/)
+
+### Data Breaches and Passwords
+
+- [Have I Been Pwned](https://haveibeenpwned.com/)
+- [DeHashed](https://www.dehashed.com/)
+- [BreachDirectory](https://breachdirectory.org/)
+- [Snusbase](https://snusbase.com/)
+- [Scylla.sh](https://scylla.sh/)
+
+### Public Records and Government Data
+
+- [PACER](https://pacer.uscourts.gov/)
+- [Data.gov](https://www.data.gov/)
+- [OSINTCombine Tools](https://www.osintcombine.com/tools)
+- [OpenCorporates](https://opencorporates.com/)
+- [Company House UK](https://www.gov.uk/get-information-about-a-company)
+
+### Image and Metadata Analysis
+
+- [EXIF.tools](https://exif.tools/)
+- [FotoForensics](https://fotoforensics.com/)
+- [JPEGSnoop](https://github.com/ImpulseAdventure/JPEGsnoop)
+- [TinEye](https://tineye.com/)
+- [Google Lens](https://lens.google/)
+- [Yandex Images](https://yandex.com/images/)
+
+### Code Repositories and Developer Intelligence
+
+- [GitHub Search](https://github.com/search)
+- [GitHarvester](https://github.com/devanshbatham/GitHarvester)
+- [GHunt](https://github.com/mxrch/GHunt)
+
+### Browser Extensions
+
+- [OSINT Browser Addons List](https://github.com/soxoj/osint-browser-addons)
+- [Revealer Toolkit](https://github.com/ScrummOSINT/Revealer)
+- [Wayback Machine Extension](https://chrome.google.com/webstore/detail/wayback-machine/fpnmgdkabkmnadcjpehmlllkndpkmiak)
+
+### All-in-One OSINT Frameworks
+
+- [OSINT Framework](https://osintframework.com/)
+- [IntelTechniques](https://inteltechniques.com/)
+- [Maltego](https://www.maltego.com/)
+- [SpiderFoot](https://github.com/smicallef/spiderfoot)
+- [Recon-ng](https://github.com/lanmaster53/recon-ng)
+- [TheHarvester](https://github.com/laramies/theHarvester)
+
+### Additional OSINT Tools
+
+- [awesome-osint](https://github.com/jivoi/awesome-osint)
+- [OSINT-Toolbox](https://github.com/SharadKumar97/OSINT-Toolbox)
+- [The OSINT Collection - Start.me](https://start.me/p/DPYPMz/the-osint-collection)
 
 ## **Responsible Use of AI for Privacy Discovery**
 
@@ -1178,6 +1281,7 @@ Before using these tools, consider the following best practices:
 - **Follow each platform’s terms of service** and respect applicable privacy laws.
 - **Avoid doxing, surveillance, or unauthorized data gathering.**
 - **Log and document your findings** to ensure accountability and manage follow-ups such as opt-outs or data deletion requests.
+- **Use these tools ethically and within the legal boundaries of your jurisdiction.** Always respect privacy and terms of service.
 
 ## **Pro Tip**
 
