@@ -51,9 +51,11 @@ The guide was last updated on January 1, 2025, and includes additional websites 
 - **Whitepages** – [Opt-out](https://www.whitepages.com/suppression_requests)
 - **BeenVerified** – [Opt-out](https://www.beenverified.com/opt-out/)
 - **Radaris** – [Opt-out](https://radaris.com/control/privacy)
+- **Lullar** - [Opt-out](https://lullar-com-3.appspot.com/#google_vignette)
 - **PeopleFinder** – [Opt-out](https://www.peoplefinder.com/opt-out)
 - **FastPeopleSearch** – [Opt-out](https://www.fastpeoplesearch.com/removal)
 - **TruePeopleSearch** – [Opt-out](https://www.truepeoplesearch.com/removal)
+- **Search People Free** - [Opt-out](https://www.searchpeoplefree.com/)
 - **FamilyTreeNow** – [Opt-out](https://www.familytreenow.com/optout)
 
 ## 2. **Marketing and Advertising Brokers**
@@ -81,6 +83,7 @@ The guide was last updated on January 1, 2025, and includes additional websites 
 
 - **Facebook** – [Manage data & ad preferences](https://www.facebook.com/off_facebook_activity/)
 - **Twitter/X** – [Personalization & data settings](https://twitter.com/settings/account/personalization)
+- **JustDeleteMe** - [Directory of account deletion links](https://justdeleteme.xyz/)
 
 # **Data Broker Opt-Out Guide**
 
@@ -144,6 +147,55 @@ The guide was last updated on January 1, 2025, and includes additional websites 
 - **[CatalogChoice](https://www.catalogchoice.org/)**: A free service to opt-out of unwanted catalogs and other mail solicitations by creating a free account and managing your mailing preferences.
 
 - **[Abine DeleteMe](https://joindeleteme.com/)**: A privacy service that removes your personal information from 30+ data brokers and continuously monitors for re-listings.
+
+- **[Your Digital Rights](https://yourdigitalrights.org/)** – Automate opt-out requests from data brokers.
+
+- **[Data Brokers Watch](https://databrokerswatch.org/top-ten)** – A list of the top 10 data brokers with opt-out instructions.
+
+## **How to Delete Your Career Profile**
+
+If you've previously applied for a job at a major tech company and wish to delete your career account, here's how to do so for various companies:
+
+### **Google Careers**
+
+Google retains your application data for various reasons, but you can request deletion:
+
+1. **Email:** [hrdatarequest@google.com](mailto:hrdatarequest@google.com)
+2. **Include:** Full name, email used in the application, and any relevant details.
+3. **Optional (EEA/UK/Brazil):** Contact [data-protection-office@google.com](mailto:data-protection-office@google.com)
+
+[Google Careers Privacy Policy](https://www.google.com/about/careers/applications/privacy-policy)
+
+### **Apple Careers**
+
+1. **Login:** [jobs.apple.com](https://jobs.apple.com)
+2. **Edit/Delete Profile:** From your dashboard, manage or delete personal data.
+3. **Support:** Email [dpo@apple.com](mailto:dpo@apple.com) or call 1-800-275-2273.
+
+[Apple Talent Privacy Notice](https://www.apple.com/careers/ng/talent_privacy.html)
+
+### **Microsoft Careers**
+
+1. **Visit:** [account.microsoft.com/closeaccount](https://account.microsoft.com/closeaccount)
+2. **Login & Verify:** Sign in with your Microsoft credentials.
+3. **Follow Prompts:** Choose a deletion reason and confirm.
+
+### **Amazon Careers**
+
+1. **Email:** [hr-dsr-privacy@amazon.com](mailto:hr-dsr-privacy@amazon.com)
+2. **Include:** Full name, email address, and application-related details.
+
+### **Meta (Facebook) Careers**
+
+1. **Login to Facebook**
+2. **Go to:** Settings & Privacy > Settings > Accounts Center
+3. **Select:** Account ownership and control > Deactivation or deletion > Delete account
+
+## **General Advice**
+
+- Always back up important information before deleting any account.
+- Some data may be retained for legal compliance or internal purposes.
+- If no deletion option is available, look for a Data Privacy or DPO contact.
 
 # **Requesting Blur on Online Map Services**
 
@@ -1192,6 +1244,7 @@ This section provides a categorized list of OSINT (Open Source Intelligence) too
 - [Facebook Graph Search (Legacy)](https://inteltechniques.com/)
 - [LinkedIn Scraper](https://github.com/OrbitalSync/linkedin_scraper)
 - [TikTok OSINT Tool](https://github.com/0xtavian/TikTok-OSINT)
+- [Sherlock](https://github.com/sherlock-project/sherlock)
 
 ### Geolocation and Maps
 
